@@ -1,0 +1,5 @@
+model,cv_score,accuracy,precision,recall,f1_macro,elapsed_sec,best_params
+rf,0.9925795497320032,0.9954545454545455,0.9956709956709957,0.9954545454545454,0.9954517027687758,4.112895727157593,"{'rf__n_estimators': 300, 'rf__min_samples_split': 5, 'rf__min_samples_leaf': 1, 'rf__max_depth': 20}"
+xgb,0.992040198391727,0.9931818181818182,0.9937032664305392,0.993181818181818,0.9932303468888836,2.5689666271209717,"{'xgb__subsample': 0.7, 'xgb__n_estimators': 100, 'xgb__max_depth': 8, 'xgb__learning_rate': 0.1, 'xgb__colsample_bytree': 0.7}"
+svm,0.9828941114696318,0.9886363636363636,0.9892660369933097,0.9886363636363636,0.9886221288339389,0.7900841236114502,"{'svc__kernel': 'rbf', 'svc__gamma': 'scale', 'svc__C': 3, 'scaler__with_std': True, 'scaler__with_mean': True}"
+knn,0.9731894889984339,0.9818181818181818,0.9823479152426521,0.9818181818181817,0.9816900365359928,0.0421452522277832,"{'scaler__with_std': True, 'scaler__with_mean': True, 'knn__weights': 'distance', 'knn__p': 1, 'knn__n_neighbors': 5}"

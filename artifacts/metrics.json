@@ -1,0 +1,18 @@
+{
+  "rows": 2200,
+  "duplicate_rate": 0.0,
+  "missing_pct": {
+    "N": 0.0,
+    "P": 0.0,
+    "K": 0.0,
+    "temperature": 0.0,
+    "humidity": 0.0,
+    "ph": 0.0,
+    "rainfall": 0.0,
+    "label": 0.0,
+    "np_ratio": 0.0,
+    "nk_ratio": 0.0,
+    "ph_bucket": 0.0
+  },
+  "generated_at": "2025-10-04T12:40:18.799976+00:00"
+}
