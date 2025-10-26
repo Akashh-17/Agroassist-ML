@@ -1,0 +1,4 @@
+model,accuracy
+rf,1.0
+xgb,1.0
+knn,0.9
