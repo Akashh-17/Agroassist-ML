@@ -1,0 +1,18 @@
+{
+  "best_model": "rf",
+  "accuracy": 1.0,
+  "data_path": "C:\\Users\\Snehal\\Agroassist-ML\\data\\Fertilizer Prediction.csv",
+  "timestamp": 1760452347,
+  "num_cols": [
+    "Temparature",
+    "Humidity ",
+    "Moisture",
+    "Nitrogen",
+    "Potassium",
+    "Phosphorous"
+  ],
+  "cat_cols": [
+    "Soil Type",
+    "Crop Type"
+  ]
+}
